@@ -1,4 +1,4 @@
-Includes one "Mr. Tron Suit" for one Mr. Optomitron.
+Package includes one "Mr. Tron Suit" for one Mr. Optomitron.
 
 Credits:
 
