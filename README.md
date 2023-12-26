@@ -3,11 +3,11 @@
 Package includes one "Mr. Tron Suit" for one Mr. Optomitron.
 
 ## Credits:
-* Created using ArmorPaint: [link](https://armorpaint.org/)
+Created using ArmorPaint: [link](https://armorpaint.org/)
 
-* T-shirt image created by "pikisuperstar" on Freepik: [link](https://www.freepik.com/free-vector/gradient-grid-background_49600446.htm)
+T-shirt image created by "pikisuperstar" on Freepik: [link](https://www.freepik.com/free-vector/gradient-grid-background_49600446.htm)
 
-* Materials Used:
+Materials Used:
 
  * Black Leather: [link](https://freepbr.com/materials/black-leather-pbr/) 
  * Loose Coarse Fabric: [link](https://freepbr.com/materials/loose-coarse-fabric/)
