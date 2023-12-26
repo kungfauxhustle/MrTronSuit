@@ -5,6 +5,8 @@ Package includes one "Mr. Tron Suit" for one Mr. Optomitron.
 ## Credits:
 Created using ArmorPaint: [link](https://armorpaint.org/)
 
+Base model and UV obtained from danisspars on Sketchfab: [link](https://skfb.ly/oO6UV)
+
 T-shirt image created by "pikisuperstar" on Freepik: [link](https://www.freepik.com/free-vector/gradient-grid-background_49600446.htm)
 
 Materials Used:
