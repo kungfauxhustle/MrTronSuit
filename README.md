@@ -9,7 +9,7 @@ Base model and UV obtained from danisspars on Sketchfab: [link](https://skfb.ly/
 
 T-shirt image created by "pikisuperstar" on Freepik: [link](https://www.freepik.com/free-vector/gradient-grid-background_49600446.htm)
 
-Materials Used:
+PBR Materials Used:
 
  * Black Leather: [link](https://freepbr.com/materials/black-leather-pbr/) 
  * Loose Coarse Fabric: [link](https://freepbr.com/materials/loose-coarse-fabric/)
