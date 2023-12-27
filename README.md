@@ -16,3 +16,7 @@ PBR Materials Used:
  * Human Skin 1: [link](https://freepbr.com/materials/human-skin1/)
  * Light Gold: [link](https://freepbr.com/materials/light-gold-pbr-metal-material/)
  * Textured Rubber: [link](https://freepbr.com/materials/textured-rubber-pbr-material/)
+
+## Future Plans
+
+Update visor to be emissive.
