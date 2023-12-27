@@ -1,3 +1,5 @@
+![Mr Tron Suit Image](icon.png)
+
 ## Contents:
 
 Package includes one "Mr. Tron Suit" for one Mr. Optomitron.
