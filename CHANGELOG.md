@@ -17,3 +17,7 @@
 * Changed License to [CC04](https://creativecommons.org/licenses/by/4.0/).
 * Updated wording in credits for materials to clarify that they are PBR.
 * Added a "Future Plans" section to the README.md
+
+## 1.0.4
+
+* Updated More Suits dependency in manifest.
