@@ -1,10 +1,10 @@
 {
   "name": "MrTronSuit",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/kungfauxhustle/MrTronSuit",
   "description": "A Suit for Mr. Tron",
   "dependencies": [
-	  "x753-More_Suits-1.3.0",
+	  "x753-More_Suits-1.4.1",
 	  "BepInEx-BepInExPack-5.4.2100"
   ]
 }
