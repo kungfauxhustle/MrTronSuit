@@ -2,7 +2,7 @@
 
 ## Contents:
 
-Package includes one "Mr. Tron Suit" for one [Mr. Optomitron](https://www.twitch.tv/optomitron).
+Package includes one "Mr. Tron Suit" for [Optomitron](https://www.twitch.tv/optomitron).
 
 ## Credits:
 Created using [ArmorPaint](https://armorpaint.org/)
