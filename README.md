@@ -2,8 +2,6 @@
 
 ## Contents:
 
-Download [here](https://thunderstore.io/c/lethal-company/p/kungfauxhustle/MrTronSuit/), using Thunderstore Manager or r2modman.  
-
 Package includes one "Mr. Tron Suit" for one [Mr. Optomitron](https://www.twitch.tv/optomitron).
 
 ## Credits:
