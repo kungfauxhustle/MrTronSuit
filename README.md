@@ -4,7 +4,7 @@
 
 Download from: [Thunderstore](https://thunderstore.io/c/lethal-company/p/kungfauxhustle/MrTronSuit/)
 
-This github hosts a WiP for a future version (1.0.4) that is not complete.
+This repository contains incomplete files for a future build (1.0.4).
 
 Package includes one "Mr. Tron Suit" for [Optomitron](https://www.twitch.tv/optomitron).
 
