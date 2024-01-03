@@ -7,8 +7,6 @@ Package includes one "Mr. Tron Suit" for [Optomitron](https://www.twitch.tv/opto
 ## Credits:
 Created using [ArmorPaint](https://armorpaint.org/)
 
-Base model and UV obtained from ["danisspars" on Sketchfab](https://skfb.ly/oO6UV).
-
 T-shirt image created by ["pikisuperstar" on Freepik](https://www.freepik.com/free-vector/gradient-grid-background_49600446.htm).
 
 PBR Materials Used:
