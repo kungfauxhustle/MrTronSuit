@@ -25,6 +25,6 @@
 
 ## 1.0.5 (Under Development)
 
-* (TBI) Adjusted software used from ArmorPaint to Adobe Substance 3D Painter.
-* (TBI) Adjusted credits, as mod no longer includes assets from previous versions.
-* (TBI) Helmet Visor is now illuminated.
+* (TBI) Adjusted software used from ArmorPaint to Adobe Substance 3D Painter
+* (TBI) Adjusted credits, as mod no longer includes assets from previous versions and uses different textures
+* (TBI) Helmet Visor is now illuminated
