@@ -11,7 +11,7 @@ Package includes one "Mr. Tron Suit" for [Optomitron](https://www.twitch.tv/opto
 ## Credits:
 Created using Adobe Substance 3D Painter.
 
-PBR Materials Used: (TBI)
+PBR Materials Sourced From: [AmbientCG.com](https://ambientcg.com/)
 
 ## TODO:
 
