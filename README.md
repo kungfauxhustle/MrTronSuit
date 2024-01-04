@@ -19,4 +19,5 @@ PBR Materials Used:
 
 ## Future Plans
 
-Update visor to be emissive.
+* Rexture in Adobe Substance 3D Painter.
+* Update visor to be emissive.
